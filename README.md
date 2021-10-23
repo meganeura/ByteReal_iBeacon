@@ -1,6 +1,6 @@
 # ByteReal_iBeacon
 
-English translation of the Bytereal app for configuring the Bytereal iBeacon.
+English translation of the Chinese Bytereal app for configuring the Bytereal iBeacon.
 
 App: http://www.bytereal.com/bytereal-APP.html
 
